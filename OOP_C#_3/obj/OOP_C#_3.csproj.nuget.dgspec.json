@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_2\\OOP_C#_2.csproj": {}
+    "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_3\\OOP_C#_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_2\\OOP_C#_2.csproj": {
+    "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_3\\OOP_C#_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_2\\OOP_C#_2.csproj",
-        "projectName": "OOP_C#_2",
-        "projectPath": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_2\\OOP_C#_2.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_3\\OOP_C#_3.csproj",
+        "projectName": "OOP_C#_3",
+        "projectPath": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_3\\OOP_C#_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_2\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\OOP_C#\\OOP_C#_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
