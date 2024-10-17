@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_C#_1", "OOP_C#_1\OOP_C#
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_C#_2", "OOP_C#_2\OOP_C#_2.csproj", "{CF00DEE6-BA69-4D73-A51B-35D1FE17040D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_C#_3", "OOP_C#_3\OOP_C#_3.csproj", "{40735B8D-F4F5-48CD-8EB0-B235EA1972AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP_C#_3", "OOP_C#_3\OOP_C#_3.csproj", "{40735B8D-F4F5-48CD-8EB0-B235EA1972AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_C#_4", "OOP_C#_4\OOP_C#_4.csproj", "{63AD301A-2BD0-431D-AB3D-A5B294DC4A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{40735B8D-F4F5-48CD-8EB0-B235EA1972AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40735B8D-F4F5-48CD-8EB0-B235EA1972AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40735B8D-F4F5-48CD-8EB0-B235EA1972AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AD301A-2BD0-431D-AB3D-A5B294DC4A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AD301A-2BD0-431D-AB3D-A5B294DC4A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AD301A-2BD0-431D-AB3D-A5B294DC4A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AD301A-2BD0-431D-AB3D-A5B294DC4A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
