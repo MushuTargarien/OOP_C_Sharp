@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\bin\Debug\OOP_C#_9.exe.config
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\bin\Debug\OOP_C#_9.exe
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\bin\Debug\OOP_C#_9.pdb
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C__9.Form1.resources
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C__9.Properties.Resources.resources
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.exe
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.pdb
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\OOP_C#\OOP_C#_9\obj\Debug\OOP_C#_9.csproj.Up2Date
