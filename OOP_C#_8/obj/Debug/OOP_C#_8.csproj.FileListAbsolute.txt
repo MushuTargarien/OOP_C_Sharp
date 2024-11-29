@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\bin\Debug\OOP_C#_8.exe.config
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\bin\Debug\OOP_C#_8.exe
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\bin\Debug\OOP_C#_8.pdb
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C#_8.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C__8.Properties.Resources.resources
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C__8.Form1.resources
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C#_8.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C#_8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C#_8.exe
+C:\Users\User\source\repos\OOP_C#\OOP_C#_8\obj\Debug\OOP_C#_8.pdb
