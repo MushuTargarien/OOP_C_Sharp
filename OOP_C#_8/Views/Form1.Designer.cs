@@ -43,9 +43,9 @@
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.maskedTextBox2 = new System.Windows.Forms.MaskedTextBox();
+            this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -241,15 +241,6 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "CRUD";
             // 
-            // maskedTextBox1
-            // 
-            this.maskedTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.18868F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.maskedTextBox1.Location = new System.Drawing.Point(189, 106);
-            this.maskedTextBox1.Mask = "000?#LLL";
-            this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(218, 24);
-            this.maskedTextBox1.TabIndex = 27;
-            // 
             // button4
             // 
             this.button4.BackColor = System.Drawing.Color.Wheat;
@@ -270,6 +261,15 @@
             this.maskedTextBox2.Name = "maskedTextBox2";
             this.maskedTextBox2.Size = new System.Drawing.Size(218, 24);
             this.maskedTextBox2.TabIndex = 27;
+            // 
+            // maskedTextBox1
+            // 
+            this.maskedTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.18868F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.maskedTextBox1.Location = new System.Drawing.Point(189, 106);
+            this.maskedTextBox1.Mask = "000?#LLL";
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.Size = new System.Drawing.Size(218, 24);
+            this.maskedTextBox1.TabIndex = 27;
             // 
             // Form1
             // 
